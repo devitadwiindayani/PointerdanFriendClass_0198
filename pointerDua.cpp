@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-class mahasiswa 
+class mahasiswa
 {
-    public :
+public:
     int nim;
     void showNim()
     {
